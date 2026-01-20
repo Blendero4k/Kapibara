@@ -1,0 +1,12 @@
+C:\Users\Admin\source\repos\verification\verification\bin\Debug\net8.0-windows\verification.deps.json
+C:\Users\Admin\source\repos\verification\verification\bin\Debug\net8.0-windows\verification.dll
+C:\Users\Admin\source\repos\verification\verification\bin\Debug\net8.0-windows\verification.pdb
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\verification.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\verification.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\verification.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\verification.AssemblyInfo.cs
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\verification.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\verification.dll
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\refint\verification.dll
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\verification.pdb
+C:\Users\Admin\source\repos\verification\verification\obj\Debug\net8.0-windows\ref\verification.dll
