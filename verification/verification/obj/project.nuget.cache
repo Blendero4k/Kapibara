@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ecPDsEHEoLE=",
+  "dgSpecHash": "XsRLsWwgyfc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\source\\repos\\verification\\verification\\verification.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Kapibara\\verification\\verification\\verification.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.50.0\\azure.core.1.50.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.17.1\\azure.identity.1.17.1.nupkg.sha512",

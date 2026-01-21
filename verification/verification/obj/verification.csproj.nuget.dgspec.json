@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\source\\repos\\verification\\verification\\verification.csproj": {}
+    "C:\\Users\\Admin\\Kapibara\\verification\\verification\\verification.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\source\\repos\\verification\\verification\\verification.csproj": {
+    "C:\\Users\\Admin\\Kapibara\\verification\\verification\\verification.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\verification\\verification\\verification.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Kapibara\\verification\\verification\\verification.csproj",
         "projectName": "verification",
-        "projectPath": "C:\\Users\\Admin\\source\\repos\\verification\\verification\\verification.csproj",
+        "projectPath": "C:\\Users\\Admin\\Kapibara\\verification\\verification\\verification.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\source\\repos\\verification\\verification\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Kapibara\\verification\\verification\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
