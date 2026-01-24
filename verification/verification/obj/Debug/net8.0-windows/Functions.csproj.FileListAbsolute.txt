@@ -1,0 +1,13 @@
+C:\Users\Admin\Kapibara\verification\verification\bin\Debug\net8.0-windows\Functions.deps.json
+C:\Users\Admin\Kapibara\verification\verification\bin\Debug\net8.0-windows\Functions.dll
+C:\Users\Admin\Kapibara\verification\verification\bin\Debug\net8.0-windows\Functions.pdb
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.csproj.AssemblyReference.cache
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.AssemblyInfoInputs.cache
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.AssemblyInfo.cs
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.sourcelink.json
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.dll
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\refint\Functions.dll
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\Functions.pdb
+C:\Users\Admin\Kapibara\verification\verification\obj\Debug\net8.0-windows\ref\Functions.dll
