@@ -1,12 +1,14 @@
 using Microsoft.Data.SqlClient;
 using System.Data;
 using System.IO;
+using System.Net;
 using System.Windows;
 namespace Functions
 {
     public static class Constants
     {
         public static List<Message> stackMessages = new List<Message>();
+        public static string login = "";
     }
     public class Message
     {
@@ -48,6 +50,7 @@ namespace Functions
                 case null:
                     return "Неверно введён логин или пароль!";
                 case 1:
+                    Constants.login = login;
                     return "";
                 default:
                     using (SqlConnection conn = new SqlConnection("Server=(localdb)\\MSSQLLocalDB;Database=main;Integrated Security=True;TrustServerCertificate=True;"))
@@ -166,6 +169,32 @@ namespace Functions
                 return false;
             }
 
+        }
+        public static string WriteMyIP()
+        {
+            string ip = new WebClient().DownloadString("http://api.ipify.org");
+            File.WriteAllText("MyIP.txt", ip);
+            return ip;
+        }
+        public static string ReadMyIP()
+        {
+            string content;
+            if (File.Exists("MyIP.txt"))
+            {
+                content = File.ReadAllText("MyIP.txt");
+            }
+            else
+            {
+                WriteMyIP();
+                ReadMyIP();
+                return "";
+            }
+            if(content!= new WebClient().DownloadString("http://api.ipify.org"))
+            {
+                WriteMyIP();
+                return new WebClient().DownloadString("http://api.ipify.org");
+            }
+            return "";
         }
     }
 
